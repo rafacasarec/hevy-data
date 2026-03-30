@@ -1,9 +1,177 @@
 {
-  "updated_at": "2026-03-29T17:34:36.403386+00:00",
+  "updated_at": "2026-03-30T17:55:00.274510+00:00",
   "workout_count": {
-    "workout_count": 37
+    "workout_count": 38
   },
   "workouts": [
+    {
+      "id": "72a88a83-6256-4655-b022-0646a8c171f7",
+      "title": "ENTRENO CON LA ROSIO😍",
+      "routine_id": null,
+      "description": "",
+      "start_time": "2026-03-30T14:43:06+00:00",
+      "end_time": "2026-03-30T15:46:32+00:00",
+      "updated_at": "2026-03-30T15:50:25.875Z",
+      "created_at": "2026-03-30T15:50:25.875Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Aducción de Caderas",
+          "notes": "",
+          "exercise_template_id": "8BEBFED6",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 45,
+              "reps": 13,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 59,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 59,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "Elevación de cadera (Máquina Smith)",
+          "notes": "",
+          "exercise_template_id": "291ABA92",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 80,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 80,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 80,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Sentadilla Hack (Máquina)",
+          "notes": "",
+          "exercise_template_id": "1E42FD5F",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 110,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 110,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": null,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 110,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": null,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Extensión de Pierna",
+          "notes": "",
+          "exercise_template_id": "75A4F6C4",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 93.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": null,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 93.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": null,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 93.5,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": null,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "35f1b066-d65c-4df0-8ce8-c19e7dd74c22",
       "title": "UPPER DAY",
