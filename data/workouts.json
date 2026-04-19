@@ -1,9 +1,226 @@
 {
-  "updated_at": "2026-04-18T17:38:25.798905+00:00",
+  "updated_at": "2026-04-19T17:38:04.814317+00:00",
   "workout_count": {
-    "workout_count": 48
+    "workout_count": 49
   },
   "workouts": [
+    {
+      "id": "b1706949-a367-468f-876c-b5d3f724a5e8",
+      "title": "UPPER DAY",
+      "routine_id": "191a8099-377d-45e2-97ee-d27f14402eed",
+      "description": "UPPER DAY CON DOLENCIAS EN TRAPECIO😭",
+      "start_time": "2026-04-19T10:04:38+00:00",
+      "end_time": "2026-04-19T11:12:48+00:00",
+      "updated_at": "2026-04-19T11:13:14.092Z",
+      "created_at": "2026-04-19T11:13:14.092Z",
+      "exercises": [
+        {
+          "index": 0,
+          "title": "Press de Hombros (Máquina de Discos)",
+          "notes": "",
+          "exercise_template_id": "059E835D",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 75,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 8.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 75,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 75,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "title": "Jalón al Pecho (Cable)",
+          "notes": "",
+          "exercise_template_id": "6A6C31A5",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 75,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 75,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 75,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Press banca pectoral recto",
+          "notes": "",
+          "exercise_template_id": "531e51a5-37a4-409c-aa35-3d15ecdabbf8",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 70,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 70,
+              "reps": 7,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 60,
+              "reps": 7,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Remo Bajo Iso-Lateral",
+          "notes": "",
+          "exercise_template_id": "91FAFBA3",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 90,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 90,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 90,
+              "reps": 8,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Elevación de Gemelos Sentado",
+          "notes": "",
+          "exercise_template_id": "062AB91A",
+          "superset_id": null,
+          "sets": [
+            {
+              "index": 0,
+              "type": "normal",
+              "weight_kg": 50,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9,
+              "custom_metric": null
+            },
+            {
+              "index": 1,
+              "type": "normal",
+              "weight_kg": 50,
+              "reps": 10,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 9.5,
+              "custom_metric": null
+            },
+            {
+              "index": 2,
+              "type": "normal",
+              "weight_kg": 50,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            },
+            {
+              "index": 3,
+              "type": "normal",
+              "weight_kg": 50,
+              "reps": 9,
+              "distance_meters": null,
+              "duration_seconds": null,
+              "rpe": 10,
+              "custom_metric": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a8598c4b-8070-4486-99cb-f45af5425a87",
       "title": "PULL DAY",
